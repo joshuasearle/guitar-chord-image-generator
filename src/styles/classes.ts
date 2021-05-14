@@ -1,5 +1,3 @@
-const classes = {
-  coolStyle: 'cool-style',
-};
+const classes = {};
 
 export default classes;
